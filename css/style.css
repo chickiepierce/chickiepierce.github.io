@@ -9,8 +9,8 @@ body{
 }
 
 img{
-	height:150;
-	width:150;
+	width:max-width;
+	height:auto;
 	border:2;
 }
 
