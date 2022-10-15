@@ -9,8 +9,8 @@ body{
 }
 
 img{
-	height:150px;
-	width:150px;
+	height:250px;
+	width:250px;
 	border:2px;
 }
 
@@ -22,4 +22,16 @@ img{
 
 .title{
 	font-style:italic;
+}
+
+#fiber{
+	text-align:center;
+}
+
+#visual{
+	text-align:center;
+}
+
+#music{
+	text-align:center;
 }
